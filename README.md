@@ -1,16 +1,70 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anjali</h1>
+<h3 align="center">🚀 MERN Stack Developer | MCA Student | Tech Enthusiast</h3>
 
-<!--
-**anjalisunil23/anjalisunil23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 👩‍💻 About Me
+
+- 🚀 Passionate **MERN Stack Developer**
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 💼 Industrial experience & internships
+- 💡 Focus on **clean architecture & scalable apps**
+- 🌱 Currently learning **advanced React & backend optimization**
+- 📍 Kerala
+- ⚡ Turning ideas into real-world applications
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,github,vscode,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anjalisunil23&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anjalisunil23&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalisunil23&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+
+### 🌐 Connect with Me
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+### 🔥 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anjalisunil23&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+### 💬 Quote
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
