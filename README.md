@@ -46,7 +46,7 @@
 ---
 
 
-### 🌐 Connect with Me
+
 
 ### 🌐 Connect with Me
 
@@ -62,13 +62,7 @@
 
 ---
 
-### 🔥 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anjalisunil23&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
 
 ### 💬 Quote
 
