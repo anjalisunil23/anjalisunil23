@@ -48,9 +48,16 @@
 
 ### 🌐 Connect with Me
 
+### 🌐 Connect with Me
+
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/anjali-sunil-a189a0218">
+  <img src="https://img.shields.io/badge/LinkedIn-Anjali%20Sunil-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:anjalisunil200@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anjalisunil200%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ---
